@@ -3,8 +3,8 @@ import React from 'react'
 
 export default function FeedScreen() {
   return (
-    <View>
-      <Text>Feeds</Text>
+    <View className='p-5'>
+      <Text className='font-bold text-xl'>Feeds</Text>
     </View>
   )
 }
